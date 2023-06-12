@@ -60,6 +60,11 @@ local plugins = {
     lazy = false,
   },
 
+  {
+    "jamessan/vim-gnupg",
+    lazy = false,
+  },
+
   -- To make a plugin not be loaded
   -- {
   --   "NvChad/nvim-colorizer.lua",
